@@ -29,4 +29,6 @@
 # OS generated files
 .DS_Store
 Thumbs.db
+
+// Remove node_modules from git
 git rm -r --cached node_modules
